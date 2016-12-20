@@ -1,0 +1,7 @@
+<p>You can find me at many locations, some of which are...</p>
+<ul>
+	<li><a href="//github.com/avail">GitHub</a></li>
+	<li><a href="//ripple.moe/u/1043">Ripple</a></li>
+	<li><a href="//kitsu.io/users/nothing">Kitsu</a></li>
+	<li>Rizon, StormBit, Freenode IRC networks under the nickname <strong>avail</strong></li>
+</ul>

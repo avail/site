@@ -1,0 +1,4 @@
+<ul>
+	<li>E-Mail: <strong>avail@pomf.se</strong></li>
+	<li>Discord: <strong>snowfall#3379</strong></li>
+</ul>

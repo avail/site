@@ -1,0 +1,24 @@
+{
+  "name": "avail.pw",
+  "authors": [
+    "avail <avail@pomf.se>"
+  ],
+  "description": "personal website",
+  "main": "index.html",
+  "license": "?",
+  "homepage": "https://avail.pw",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "pure": "^0.6.1",
+    "grunt": "^1.0.1",
+    "fira": "^0.1.0",
+    "jquery": "^3.1.1"
+  }
+}

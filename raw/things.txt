@@ -1,0 +1,6 @@
+<p>I like coding, so here are some things I've done</p>
+<ul>
+	<li><a href="//github.com/avail/site">this website</a></li>
+	<li><a href="//prod.outwa.it">modified osu! client with fun features</a></li>
+	<li><a href="//github.com/avail/discord-irc-relay">irc/discord relay bot</a></li>
+</ul>

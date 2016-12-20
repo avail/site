@@ -1,0 +1,3 @@
+<p>Hi, I'm <strong>avail</strong>. I live in <strong>Croatia</strong>. I love coding, listening to music and being a couch potato.</p>
+
+<p>I like C/C++, C#, Python and Node.js</p>
