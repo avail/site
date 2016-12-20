@@ -4,9 +4,11 @@ $(document).ready(function() {
 	});
 
 	$(".content ul li a").click(function(event) {
-		event.preventDefault();
-
 		var url = $(this).attr("href");
+
+		if (url != "/blog") {
+			event.preventDefault();
+		}
 
 		$(".subtext .data").fadeOut("fast", function() {
 			$.get(url, function(dada) {
