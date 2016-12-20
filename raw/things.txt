@@ -4,3 +4,9 @@
 	<li><a href="//prod.outwa.it">modified osu! client with fun features</a></li>
 	<li><a href="//github.com/avail/discord-irc-relay">irc/discord relay bot</a></li>
 </ul>
+<p>Things I used to contribute to</p>
+<ul>
+	<li><strong>FiveM</strong> - shut down by Take-Two Interactive</li>
+	<li><a href="//github.com/nta/gbhm">Grievous Bodily Harm</a> - top-down 3d shooter a la GTA2</li>
+	<li><a href="//ripple.moe">Ripple</a> - left developing team due to inactivity</li>
+</ul>

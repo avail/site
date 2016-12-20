@@ -1,4 +1,6 @@
 <ul>
 	<li>E-Mail: <strong>avail@pomf.se</strong></li>
 	<li>Discord: <strong>snowfall#3379</strong></li>
+	<li><a href="https://steamcommunity.com/id/whitecherry">Steam</a></li>
+	<li>Telegram: <strong>@shirovail</strong></li>
 </ul>
